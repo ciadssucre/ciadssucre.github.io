@@ -176,7 +176,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 400;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -213,7 +213,8 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1.5rem;
+		font-size: 2.25rem;
+		line-height: 1;
 	}
 
 	h4 {
@@ -348,6 +349,12 @@ input, select, textarea {
 		border-bottom-color: rgba(0, 0, 0, 0.2);
 	}
 
+	/* clase para resalntar texto */
+	.resaltar{
+		color: rgba(235, 52, 36, 0.89);
+		font-weight: 600;
+		display: inline;
+	}
 /* Row */
 
 	.row {
