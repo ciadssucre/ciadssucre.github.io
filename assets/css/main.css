@@ -1,11 +1,14 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
-/*
-	Story by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
+
+/* clase para resalntar texto */
+.resaltar{
+	color: rgba(235, 52, 36, 0.89);
+	font-weight: 600;
+	display: inline;
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -351,12 +354,7 @@ input, select, textarea {
 		border-bottom-color: rgba(0, 0, 0, 0.2);
 	}
 
-	/* clase para resalntar texto */
-	.resaltar{
-		color: rgba(235, 52, 36, 0.89);
-		font-weight: 600;
-		display: inline;
-	}
+	
 /* Row */
 
 	.row {
