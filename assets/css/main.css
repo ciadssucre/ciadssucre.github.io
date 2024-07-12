@@ -1,8 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
-
-
 /* clase para resalntar texto */
 .resaltar{
 	color: rgba(235, 52, 36, 0.89);
